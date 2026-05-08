@@ -4,7 +4,7 @@ struct S1{
 char c;
 int i;
 long long l;
-};
+}
 
 struct S2{
   char c;
