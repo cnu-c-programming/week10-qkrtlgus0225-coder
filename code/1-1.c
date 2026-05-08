@@ -15,5 +15,5 @@ struct S2{
 int main(){
   struct S1 s1;
   struct S2 s2;
-  print("%zu %zu\n", sizeof(s1), sizeof(s2)); 
+  printf("%zu %zu\n", sizeof(s1), sizeof(s2)); 
 }
